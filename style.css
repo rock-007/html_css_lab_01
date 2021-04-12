@@ -41,16 +41,15 @@ article > header > nav > div{
 
 img {
     left:0;
-    width: 35%;
-    height: 35%; 
+    width: 90%;
+    height: 60%; 
+}
+#latest-breaking-news{
+    width: 55%
 }
 
-.latest-breaking-news > ul {
-    display: inline-block;
-
-}
 .breaking-news-section > ul {
-    padding:0%
+    padding:0%;
 
     }
 
@@ -58,8 +57,16 @@ img {
 .breaking-news-section > ul > li {
     list-style: None;
     display: inline-block;
-    
+    vertical-align: top;
+    max-width: 33%;
+
+
 
 
     }
 
+#login-dev {
+
+    max-width: 24%;
+
+    }
